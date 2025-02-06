@@ -11,8 +11,8 @@ Below is an example of a **generated question** in Japanese:
 **Question:** 安保繊維が紙巻きに用いられている理由は何ですか?  
 
 <audio controls>
-  <source src="question/5.wav" type="audio/wav">
-  Your browser does not support the audio element.
+  <source src="question/0.wav" type="audio/wav">
+  Github doesnt support Audio Tag
 </audio>  
 
 ### 🎧 Answer Audio  
@@ -23,7 +23,7 @@ And here is the **corresponding generated answer**:
 
 <audio controls>
   <source src="output/5.wav" type="audio/wav">
-  Your browser does not support the audio element.
+  Github doesnt support Audio Tag
 </audio>  
 
 This project dynamically generates **Japanese audio Q&A** based on text input.  
