@@ -1,7 +1,7 @@
 # End-to-End Japanese LLM Generation  
 
 This repository demonstrates a **Japanese LLM-based audio Q&A** system.  
-The key components used are **Ultravox** and **KokoroTTS** for text generation and speech synthesis.  
+The key components used are **Ultravox** and **KokoroTTS** for speech understanding and speech synthesis.  
 
 ## 🎙️ Sample Question and Answer Audio in Japanese  
 
